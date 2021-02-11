@@ -7,10 +7,11 @@ function App() {
 
   return (
     <>
-    <Switch>
+    <Home/>
+    {/* <Switch>
     <Route exact path="https://gauravsp1.github.io/salad/menu" component={Menu} />
     <Route exact path="https://gauravsp1.github.io/salad/" component={Home} />
-    </Switch>
+    </Switch> */}
     </>
   );
 }
