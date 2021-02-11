@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     <Switch>
-    <Route exact path="/menu" component={Menu} />
-    <Route exact path="/" component={Home} />
+    <Route exact path="https://gauravsp1.github.io/salad/menu" component={Menu} />
+    <Route exact path="https://gauravsp1.github.io/salad/" component={Home} />
     </Switch>
     </>
   );
